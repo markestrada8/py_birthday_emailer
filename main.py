@@ -2,9 +2,10 @@ import datetime as dt
 import smtplib
 import pandas
 import random
+import credentials
 
-sender_email = <origin_email>
-password = <app_password>
+sender_email = credentials.MY_EMAIL
+password = credentials.MY_PASSWORD
 
 # 1. Update the birthdays.csv
 
