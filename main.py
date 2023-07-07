@@ -3,8 +3,8 @@ import smtplib
 import pandas
 import random
 
-sender_email = "mark.estrada.dev@gmail.com"
-password = "zuvjjjbtetyqongg"
+sender_email = <origin_email>
+password = <app_password>
 
 # 1. Update the birthdays.csv
 
